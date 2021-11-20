@@ -1,0 +1,8 @@
+{
+  "name": "social-media-app-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cristiandelcidd/social-media-app-backend.git",
+  "author": "cristiandelcidd <cristian_delcid10@yahoo.com>",
+  "license": "MIT"
+}
